@@ -27,3 +27,41 @@ h4{
     background-color: lightblue;
     text-align: right;
 }
+.img1{
+    height: 100%;
+    width: 100%;
+    border: 5px dotted crimson;
+}
+.img2{
+    border: 5px solid tomato;
+    margin: 50px;
+    padding: 50px;
+
+}
+p.title_p{
+    color: blueviolet;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    text-align: center;
+}
+a{
+    font-size: large;
+    color: deeppink;
+}
+.nav_style{
+    border: 1px dotted rgb(252, 34, 245);
+}
+div.navigation{
+    background-color: whitesmoke;
+    padding: 5px;
+}
+.scroll{
+    width: 20px;
+    height: 20px;
+    align-content: right;
+}
+.contact_icons{
+    width: 25px;
+    height: 25px;
+}
