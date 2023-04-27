@@ -2,6 +2,8 @@
 body{
     background-color: rgb(153, 254, 222);
     padding: 1%;
+    background-image: url(https://media-exp1.licdn.com/dms/image/C4D1BAQGmyFIY3ZNplw/company-background_10000/0/1596152714244?e=2159024400&v=beta&t=dKaVV5hMBg2aH9s30b93_U4qEY2Yofxz0dj2s5mDJZQ);
+    background-repeat: no-repeat;
 }
 .intro{
     color: brown;
@@ -64,4 +66,23 @@ div.navigation{
 .contact_icons{
     width: 25px;
     height: 25px;
+}
+li{
+    color: rgb(226, 128, 43);
+}
+.video_size{
+    margin-left: auto;
+    margin-right: auto;
+    width: 320px;
+    height: 240px;
+    border: 3px solid rgba(255, 0, 0, 0.823);
+}
+table{
+    border: 3px solid rgb(125, 129, 201);
+}
+th{
+    border: 2px solid rgb(217, 75, 98);
+}
+td{
+    border: 1px solid rgb(52, 51, 31);
 }
